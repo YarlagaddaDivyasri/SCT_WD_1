@@ -1,4 +1,6 @@
-Features
+Responsive Loading Page
+
+Features:
 - Responsive Landing Page  
 - Fixed Navigation Bar  
 - Navbar Color Change on Scroll  
@@ -7,7 +9,7 @@ Features
 - Contact Section  
 - Mobile Responsive Design  
 
- Technologies Used
+ Technologies Used:
 - HTML5  
 - CSS3  
 - JavaScript  
